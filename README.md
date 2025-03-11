@@ -5,15 +5,15 @@ I'm a passionate MERN Stack Developer focused on building modern and scalable we
 ### 🛠 Tech Stack:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
 
 ### 🌐 Connect with me:
